@@ -1,0 +1,17 @@
+name: mini-spark
+services:
+  spark:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /workspace
+    entrypoint: ["bash", "-lc", "tail -f /dev/null"]
+    ports: 
+      - "4040-4050:4040-4050" # UI de Spark jobs locales
+    user: root
+    volumes:
+      - ./../workspace:/workspace
+      - ./log4j2.properties:/opt/bitnami/spark/conf/log4j2.properties
+      - ./spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
+    env_file:
+      - .env

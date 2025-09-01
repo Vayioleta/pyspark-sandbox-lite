@@ -1,0 +1,3 @@
+# Dependencias adicionales para el laboratorio de Spark
+# Estas ya están incluidas en la imagen bitnami/spark
+# pero puedes agregar dependencias personalizadas aquí

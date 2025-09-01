@@ -1,0 +1,21 @@
+id,nombre,edad,ciudad,salario,departamento
+1,Juan Perez,25,Madrid,35000,IT
+2,Maria Garcia,30,Barcelona,42000,HR
+3,Carlos Lopez,28,Valencia,38000,Finance
+4,Ana Rodriguez,32,Madrid,45000,Marketing
+5,David Fernandez,27,Barcelona,36000,IT
+6,Carmen Martinez,29,Valencia,41000,Sales
+7,Jorge Sanchez,31,Madrid,48000,IT
+8,Laura Gonzalez,26,Barcelona,34000,HR
+9,Ruben Ruiz,33,Valencia,46000,Finance
+10,Pilar Torres,28,Madrid,39000,Marketing
+11,Antonio Ramirez,35,Barcelona,52000,Sales
+12,Beatriz Morales,24,Valencia,33000,IT
+13,Francisco Jimenez,29,Madrid,41000,HR
+14,Isabel Castro,31,Barcelona,47000,Finance
+15,Miguel Ortega,27,Valencia,37000,Marketing
+16,Cristina Delgado,34,Madrid,50000,Sales
+17,Javier Rubio,26,Barcelona,35000,IT
+18,Sara Herrera,30,Valencia,43000,HR
+19,Diego Vega,32,Madrid,49000,Finance
+20,Lucia Moreno,28,Barcelona,38000,Marketing
